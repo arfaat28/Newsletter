@@ -1,7 +1,8 @@
 # Newsletter
 
-#Just a simple newsletter format.
-#A form pops up from the letter when u move your mouse over it.
+. Just a simple newsletter format.
+
+. A form pops up from the letter when u move your mouse over it.
 
 ![image](https://user-images.githubusercontent.com/69072470/136795117-980eb472-af32-4d54-ae6a-5a696e3061b0.png)
 
